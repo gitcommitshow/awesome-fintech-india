@@ -20,6 +20,7 @@ List of awesome financial services APIs and tools available to Indian developers
 
 <!-- description -->
 
+Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/ekodevs)
 
 </div>
 
