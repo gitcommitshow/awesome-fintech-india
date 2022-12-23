@@ -41,8 +41,8 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 ## Payment Processing APIs
 
 - [Paytm API](https://developer.paytm.com/) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
+- [Google Pay API](https://developers.google.com/pay/api) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
 - [PhonePe API](https://www.phonepe.com/) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
-- [Google Pay API](https://pay.google.com/) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
 - [Amazon Pay API](https://www.amazon.in/b?ie=UTF8&node=14343320031) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
 - [MobiKwik API](https://www.mobikwik.com/) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
 - [Ola Money API](https://www.olamoney.com/) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
