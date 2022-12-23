@@ -4,11 +4,11 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome FinTech India [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/gitcommitshow/awesome-fintech-india/actions/workflows/lint.yaml/badge.svg)](https://github.com/gitcommitshow/awesome-fintech-india/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
-A template for an awesome list with required conventions out of the box!
+List of awesome financial services APIs and tools available to Indian developers
 
 <!-- image -->
 
@@ -56,4 +56,4 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/gitcommitshow/awesome-fintech-india/graphs/contributors)!
