@@ -4,7 +4,9 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome FinTech India [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/gitcommitshow/awesome-fintech-india/actions/workflows/lint.yaml/badge.svg)](https://github.com/gitcommitshow/awesome-fintech-india/actions/workflows/lint.yaml)
+# Awesome FinTech India 
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/gitcommitshow/awesome-fintech-india/actions/workflows/lint.yaml/badge.svg)](https://github.com/gitcommitshow/awesome-fintech-india/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
