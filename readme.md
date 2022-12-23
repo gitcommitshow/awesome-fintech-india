@@ -14,15 +14,12 @@ List of awesome financial services APIs and tools available to Indian developers
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
+<!--a href="" target="_blank" rel="noopener noreferrer">
   <img src="" />
-</a>
+</a-->
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
 
 </div>
 
