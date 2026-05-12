@@ -35,6 +35,7 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 - [Credit and Lending APIs](#credit-and-lending-apis)
 - [Identity verification APIs](#identity-verification-apis)
 - [FinTech API Aggregators](#fintech-api-aggregators)
+- [Creators to Follow](#creators-to-follow)
 
 <!-- CONTENT -->
 
@@ -90,7 +91,7 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 - [ICICI Prudential API](https://www.iciciprulife.com/) - Insurance API that offers a range of insurance products, including life, health, and car insurance.
 - [LIC API](https://www.licindia.in/) - Insurance API that offers a range of insurance products, including life, health, and car insurance.
 - [Birla Sun Life Insurance API](https://www.birlasunlife.com/) - Insurance API that offers a range of insurance products, including life, health, and car insurance.
-- [Reliance Nippon Life Insurance API](https://www.reliancenipponlife.com/) - Insurance API that offers a range of insurance products, including
+- [Reliance Nippon Life Insurance API](https://www.reliancenipponlife.com/) - Insurance API by Nippon.
 
 
 ## Credit and Lending APIs
@@ -123,17 +124,12 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 
 ## FinTech API Aggregators
 
-- [Eko](https://github.com/ekoindia/eko-sdk-node) - Aggregator of all financial services APIs into one SDK
+- [Eko](https://github.com/ekoindia/eko-sdk-node) - Aggregator of all financial services APIs into one SDK.
+
+
+## Creators to Follow
 
 <!-- END CONTENT -->
-
-## Follow
-
-//TODO
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
 
 ## Contributing
 
