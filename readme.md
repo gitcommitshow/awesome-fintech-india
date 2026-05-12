@@ -105,8 +105,8 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 - [Credy API](https://www.credy.in/) - Credit and lending API that offers short-term personal loans to individuals.
 - [StashFin API](https://www.stashfin.com/) - Credit and lending API that offers short-term personal loans to individuals.
 - [MoneyTap API](https://www.moneytap.com/) - Credit and lending API that offers personal credit lines to individuals.
-
-
+- [Precisa](https://precisa.in) - Bank statement analysis and credit underwriting platform for India. Automates fraud detection, GSTR verification, and cash flow analysis with 97% accuracy across 850+ banks.
+  
 ## Identity verification APIs
 
 - [Authy API](https://www.authy.com/) - Identity verification API that offers two-factor authentication and phone verification services.
