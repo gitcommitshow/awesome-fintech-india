@@ -11,15 +11,13 @@ jobs:
         fail-fast: false
         matrix:
           files:
-            - "readme-template.md"
+            - "readme.md"
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
           uses: actions/checkout@v2
           with:
             fetch-depth: 0
-        - name: asdf_install
-          uses: asdf-vm/actions/install@v1
         - name: "linting: ${{ matrix.files }}"
           run: npx -y awesome-lint ${{ matrix.files }}
     awesome-bot:
@@ -27,7 +25,7 @@ jobs:
         fail-fast: false
         matrix:
           files:
-            - "readme-template.md"
+            - "readme.md"
       runs-on: ubuntu-latest
       steps:
         - name: "checkout repo"
@@ -42,4 +40,4 @@ jobs:
         - name: "install awesome-bot"
           run: gem install awesome_bot
         - name: "linting: ${{ matrix.files }}"
-          run: awesome_bot --allow-redirect --white-list https://github.com/YOUR_GITHUB_USER/YOUR_REPO ${{ matrix.files }} 
+          run: awesome_bot --allow-redirect --white-list https://github.com/gitcommitshow/awesome-fintech-india ${{ matrix.files }} 
