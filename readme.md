@@ -108,6 +108,7 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 - [StashFin API](https://www.stashfin.com/) - Credit and lending API that offers short-term personal loans to individuals.
 - [MoneyTap API](https://www.moneytap.com/) - Credit and lending API that offers personal credit lines to individuals.
 - [Precisa](https://precisa.in) - Bank statement analysis and credit underwriting platform for India. Automates fraud detection, GSTR verification, and cash flow analysis with 97% accuracy across 850+ banks.
+- [Finezza API](https://finezza.in/) - Provides APIs for no-code loan management system suitable for lending product types and comes with a low code collections management system for automating collections. Offers a very low-code easy to use loan origination system with best in class document processing.
   
 ## Identity verification APIs
 
