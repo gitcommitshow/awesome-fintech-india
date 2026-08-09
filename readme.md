@@ -121,6 +121,7 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 - [IDnow API](https://www.idnow.de/) - Identity verification API that offers identity verification services using video identification technology.
 - [IdentityMind API](https://www.identitymind.com/) - Identity verification API that offers identity verification and risk assessment services.
 - [Veratad API](https://www.veratad.com/) - Identity verification API that offers identity verification and age verification services.
+- [gstinapi.in](https://www.gstinapi.in/) - REST API to verify an Indian GSTIN and get legal name, registration status, taxpayer type and address in real time from the official GST network, with official Node.js and Python client libraries and 100 free lookups every month.
 
 
 ## FinTech API Aggregators
