@@ -49,6 +49,7 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 - [Ola Money API](https://www.olamoney.com/) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
 - [PayU API](https://www.payu.in/) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
 - [Razorpay API](https://razorpay.com/) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
+- [Invariant](https://github.com/yavonalabs/invariant) - Open-source business invariant CLI engine to test Razorpay & Stripe webhook idempotency, duplicate retries, and DB post-conditions.
 - [Instamojo API](https://www.instamojo.com/) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
 - [PayPal API](https://www.paypal.com/) - Payment processing API that offers a range of payment and financial services, including mobile payments, e-commerce, and more.
 
