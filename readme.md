@@ -94,6 +94,7 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 - [LIC API](https://www.licindia.in/) - Insurance API that offers a range of insurance products, including life, health, and car insurance.
 - [Birla Sun Life Insurance API](https://www.birlasunlife.com/) - Insurance API that offers a range of insurance products, including life, health, and car insurance.
 - [Reliance Nippon Life Insurance API](https://www.reliancenipponlife.com/) - Insurance API by Nippon.
+- [IndiaInsurances API](https://indiainsurances.com/for-agents) - Free, no-key API and MCP server that returns Indian insurance policy wordings clause by clause (waiting periods, limits, exclusions), each with the source clause and page.
 
 
 ## Credit and Lending APIs
@@ -123,6 +124,7 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 - [IdentityMind API](https://www.identitymind.com/) - Identity verification API that offers identity verification and risk assessment services.
 - [Veratad API](https://www.veratad.com/) - Identity verification API that offers identity verification and age verification services.
 - [gstinapi.in](https://www.gstinapi.in/) - REST API to verify an Indian GSTIN and get legal name, registration status, taxpayer type and address in real time from the official GST network, with official Node.js and Python client libraries and 100 free lookups every month.
+- [IndiaCos API](https://indiacos.com/api) - REST API and MCP server to verify an Indian GSTIN, CIN or LLPIN and get company status, directors, every GSTIN under a PAN and court cases naming the business, built from MCA, GST and court records, with ₹50 free credit on sign-up and prepaid pay-per-call pricing.
 
 
 ## FinTech API Aggregators
