@@ -128,6 +128,7 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 ## FinTech API Aggregators
 
 - [Eko](https://github.com/ekoindia/eko-sdk-node) - Aggregator of all financial services APIs into one SDK.
+- [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 
 ## Creators to Follow
