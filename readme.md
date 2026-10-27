@@ -66,6 +66,7 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 - [Canara Bank API](https://www.canarabank.in/) - Banking API that offers a range of banking products and services, including checking and savings accounts, loans, and more.
 - [Union Bank of India API](https://www.unionbankofindia.co.in/) - Banking API that offers a range of banking products and services, including checking and savings accounts, loans, and more.
 - [Bank of India API](https://www.bankofindia.co.in/) - Banking API that offers a range of banking products and services, including checking and savings accounts, loans, and more.
+- [APIVerve IFSC Lookup](https://apiverve.com/marketplace/ifsclookup) - IFSC code lookup API that returns the bank name, branch, address, city, district and state for any Indian IFSC code, with a free plan.
 
 ## Investment and Wealth Management APIs
 
