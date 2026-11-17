@@ -80,6 +80,7 @@ Welcome your contribution, or [questions/suggestions on Discord](https://dsc.gg/
 - [Kotak Securities API](https://www.kotaksecurities.com/) - Investment API that offers brokerage services for multiple asset classes, including equities, derivatives, and more.
 - [Motilal Oswal API](https://www.motilaloswal.com/) - Investment API that offers brokerage and financial services, including equity trading, mutual funds, and more.
 - [Tapetide](https://tapetide.com) - AI-first stock research API and MCP server covering all 8,200+ NSE and BSE stocks, with quotes, financials, a 326-ratio screener, and FII/DII institutional flows.
+- [Sachfolio CAS reader](https://sachfolio.com/developers/) - Reads mutual fund Consolidated Account Statement PDFs from CAMS, KFintech, NSDL and CDSL in the browser or in Node and returns checked JSON, as an npm package and an HTTPS API.
 
 
 ## Insurance APIs
